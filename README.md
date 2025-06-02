@@ -1,2 +1,2 @@
-# -
+# My shortcuts hosting
 Testing
